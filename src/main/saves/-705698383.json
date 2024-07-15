@@ -1,0 +1,22 @@
+{
+  "profileId": "-705698383",
+  "waveEnemyCount": [
+    3,
+    6,
+    10,
+    14,
+    16
+  ],
+  "ups": 800,
+  "fps": 80,
+  "epsilonMeleeDamage": 10,
+  "epsilonRangedDamage": 5,
+  "soundScale": 1.36,
+  "sizeScale": 0.75,
+  "gameSpeed": 1.4944444,
+  "epsilonShootingRapidity": 1,
+  "activeSkillSaveName": "",
+  "acquiredSkillsNames": [],
+  "totalXP": 600,
+  "currentGameXP": 300
+}

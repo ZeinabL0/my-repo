@@ -1,0 +1,18 @@
+{
+  "profileId": "62559349",
+  "waveEnemyCount": [
+    2
+  ],
+  "ups": 800,
+  "fps": 80,
+  "epsilonMeleeDamage": 10,
+  "epsilonRangedDamage": 5,
+  "soundScale": 8.0,
+  "sizeScale": 0.75,
+  "gameSpeed": 2.0,
+  "epsilonShootingRapidity": 1,
+  "activeSkillSaveName": "WRIT OF ACESO",
+  "acquiredSkillsNames": [],
+  "totalXP": 145,
+  "currentGameXP": 5
+}
